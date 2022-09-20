@@ -1,5 +1,4 @@
-## Onboarding Sprint 4 - Build MDN Bouncing Balls
-
+## Onboarding Sprint 4 - MDN Image gallery
 ### Project Brief:
 You have been provided with some HTML, CSS and image assets and a few lines of JavacCript code; you need to write the necessary JavaScript to turn this into a working program.
 
